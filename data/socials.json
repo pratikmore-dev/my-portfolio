@@ -8,5 +8,10 @@
     "title": "Linkedin",
     "icon": "bx bxl-linkedin-square",
     "link": "https://www.linkedin.com/in/pratik-more-16823a226/"
+  },
+    {
+    "title": "LeetCode",
+    "icon": "/images/icons/leetcode.png", 
+    "link": "https://leetcode.com/u/morepratikavinash/"
   }
 ]

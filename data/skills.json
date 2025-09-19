@@ -7,5 +7,8 @@
   { "title": "Next JS", "icon": "devicon-nextjs-plain colored" },
   { "title": "TailwindCSS", "icon": "devicon-tailwindcss-original colored" },
   { "title": "Node JS", "icon": "devicon-nodejs-plain colored" },
-  { "title": "Express JS", "icon": "devicon-express-original colored" }
+  { "title": "Express JS", "icon": "devicon-express-original colored" },
+    { "title": "Angular", "icon": "devicon-angularjs-plain colored" },
+  { "title": ".NET Core", "icon": "devicon-dotnetcore-plain colored" },
+  { "title": "Azure", "icon": "devicon-azure-plain colored" }
 ]
