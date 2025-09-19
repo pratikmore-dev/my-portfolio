@@ -3,13 +3,13 @@
     "title": "TD"
   },
   "hero": {
-    "title": "Front-End React Developer",
-    "text": "Hi, I'm Tonmoy Deb. A passionate Front-end React\n Developer from Sylhet, Bangladesh.",
+    "title": "Full Stack Developer",
+    "text": "Hi, I'm Pratik More. A passionate Full stack  Developer from Pune, India.",
     "image": "/images/avatar/tonmoy.jpg"
   },
   "about": {
-    "title": "A dedicated Front-end Developer from Sylhet Bangladesh",
-    "text": "I love to solve problems and build web applications. I'm passionate about front-end development. I have a good understanding in HTML, CSS, JavaScript, TypeScript, React JS, Next JS, TailwindCSS, Sass. My main goal is creating smooth, interctive, & user friendly interface using best development tools & language.",
+    "title": "A dedicated Full stack  Developer from Pune India",
+    "text": "I love to solve problems and build web applications. I have a good understanding in HTML, CSS, JavaScript, TypeScript, React JS, Next JS, TailwindCSS, Sass. My main goal is creating smooth, interctive, & user friendly interface using best development tools & language.",
     "subtitle": "About Me",
     "image": "/images/about.webp"
   },
@@ -18,7 +18,7 @@
     "subtitle": "PORTFOLIO"
   },
   "contact": {
-    "title": "Don't be shy! Hit me up! 👇",
+    "title": "Message me up! 👇",
     "subtitle": "CONTACT"
   }
 }
